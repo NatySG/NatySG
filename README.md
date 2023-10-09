@@ -1,5 +1,5 @@
 ### Olá, 👋 
-Sou Natália, estudante de Análise e Desenvolvimento de Sistemas e procuro oportunidades e colaboração em projetos relacionados à programação nível iniciante e principalmente muito aprendizado . 
+Sou Natália, estudante de Análise e Desenvolvimento de Sistemas em busca de oportunidades e colaboração em projetos relacionados à programação nível iniciante e principalmente muito aprendizado . 
 - 🌱 Atualmente estou aprendendo programação front-end, HTML | CSS| JavaScript. 
 
 
